@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://tarunhasija.netlify.app/](https://tarunhasija.netlify.app/)
 
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **ihasijatarun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
