@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunhasija&show_icons=true&locale=en" alt="tarunhasija" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunhasija&" alt="tarunhasija" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/TarunHasijaryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TarunHasija&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarunHasija&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
