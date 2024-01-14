@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://tarunhasija.netlify.app/](https://tarunhasija.netlify.app/)
+- 👨‍💻 All of my projects are available at <br> [https://tarunhasija.netlify.app/](https://tarunhasija.netlify.app/)
 
 - 📫 How to reach me **ihasijatarun@gmail.com**
 
