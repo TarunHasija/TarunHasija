@@ -26,5 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunhasija&show_icons=true&locale=en&layout=compact" alt="tarunhasija" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunhasija&show_icons=true&locale=en" alt="tarunhasija" /></p>
+
+
+
 
 
