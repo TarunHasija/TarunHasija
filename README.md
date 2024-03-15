@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Tarun Hasija a Passionate Developer <br><br>- 🔭 I’m a 2nd year CS student<br>- 📚 I'm currently learning Flutter<br>- ⚡ Interested in mobile app development , web development and UI/UX</p>
+<p align="left">I'm Tarun Hasija a Passionate Developer <br><br>- 🔭 I’m a 2nd year CS student<br>- 📚 I'm currently learning Flutter<br>- ⚡ Interested in mobile app development </p>
 
 ###
 
