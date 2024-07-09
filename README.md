@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img height="300" src="https://github.com/TarunHasija/TarunHasija/assets/120959259/5dc86689-517b-4e72-bddc-81bd35fa3c79"  />
+  <img height="300" width="800" src="https://github.com/TarunHasija/TarunHasija/assets/120959259/5dc86689-517b-4e72-bddc-81bd35fa3c79"  />
 </div>
 
 
