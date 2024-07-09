@@ -1,6 +1,12 @@
+
 <div align="center">
-  <img height="280" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif"  />
+
+  <img width="800" src="https://github.com/TarunHasija/TarunHasija/assets/120959259/5dc86689-517b-4e72-bddc-81bd35fa3c79"  />
 </div>
+
+
+
+
 
 ###
 
