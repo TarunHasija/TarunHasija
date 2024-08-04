@@ -1,3 +1,8 @@
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
 
 <div align="center">
 
@@ -27,17 +32,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunHasija.TarunHasija&"  />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Tarun Hasija a Passionate Developer <br><br>- 🔭 Pursuing Undergrad in CS<br>- 📚 I'm currently learning Flutter and Ui UX<br>- ⚡ Interested in mobile app development </p>
+<p align="left">I'm Tarun Hasija a Passionate Flutter Developer <br><br>- 🔭 Pursuing Undergrad in CS<br>- 📚 I'm currently learning Flutter and Ui UX<br>- ⚡ Interested in mobile app development </p>
 
 ###
 
@@ -59,14 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
