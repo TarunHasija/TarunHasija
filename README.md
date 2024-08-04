@@ -1,8 +1,10 @@
 
 <div align="center">
 
-  <img height="300" width="800" src="https://github.com/TarunHasija/TarunHasija/assets/120959259/5dc86689-517b-4e72-bddc-81bd35fa3c79"  />
+
+  ![banner](https://github.com/user-attachments/assets/545de039-9999-46b7-9408-6200cd653365)
 </div>
+
 
 
 
