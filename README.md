@@ -11,10 +11,6 @@
 </div>
 
 
-
-
-
-
 ###
 
 <div align="center">
@@ -41,13 +37,17 @@
 
 ###
 
-<p align="left">I'm Tarun Hasija a Passionate Flutter Developer <br><br>- 🔭 Pursuing Undergrad in CS<br>- 📚 I'm currently learning Flutter and Ui UX<br>- ⚡ Interested in mobile app development </p>
+<p align="left">Tarun Hasija this side a Flutter Developer and UI UX desginer <br><br>- 🔭 Pursuing Undergrad in CS<br>- 📚 I'm currently learning Flutter and Ui UX<br>- ⚡ Interested in mobile app development </p>
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tarun-hasija-a5514825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-hasija-a5514825b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yaaar_tarun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yaaar_tarun/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <br clear="both">
 
