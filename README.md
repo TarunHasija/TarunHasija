@@ -6,8 +6,8 @@
 
 <div align="center">
 
+![banner](https://github.com/user-attachments/assets/19a6ba03-d9a3-4f5f-b34b-bac81942b4e1)
 
-  ![banner](https://github.com/user-attachments/assets/545de039-9999-46b7-9408-6200cd653365)
 </div>
 
 
