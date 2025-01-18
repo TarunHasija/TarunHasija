@@ -4,11 +4,8 @@
 
 ###
 
-<div align="center">
+![mario-working](https://github.com/user-attachments/assets/4269033a-04af-4fe6-b122-cb7d00145047)
 
-![banner](https://github.com/user-attachments/assets/19a6ba03-d9a3-4f5f-b34b-bac81942b4e1)
-
-</div>
 
 
 ###
@@ -37,7 +34,7 @@
 
 ###
 
-<p align="left">Tarun Hasija this side a Flutter Developer and UI UX desginer <br><br>- 🔭 Pursuing Undergrad in CS<br>- 📚 I'm currently learning Flutter and Ui UX<br>- ⚡ Interested in mobile app development </p>
+<p align="left">Tarun Hasija this side a Flutter Developer and UI UX desginer <br><br> 🔭 SDE Intern @Misfits<br> 📚 Exploring Flutter and Ui UX<br> ⚡ Interested in mobile app development </p>
 
 ###
 <h3 align="left">Connect with me:</h3>
