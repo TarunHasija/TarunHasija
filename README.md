@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Tarun Hasija this side a Flutter Developer and UI UX desginer <br><br> 🔭 SDE Intern @Misfits<br> 📚 Exploring Flutter and Ui UX<br> ⚡ Interested in mobile app development </p>
+<p align="left">I'm Tarun, I design & build captivating products.<br><br> 🔭 SDE Intern @Misfits<br> 📚 Exploring Flutter and Ui UX<br> ⚡ Interested in mobile app development </p>
 
 ###
 <h3 align="left">Connect with me:</h3>
