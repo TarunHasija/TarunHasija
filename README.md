@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Tarun, I design & build captivating products.<br><br> 🔭 SWE @Misfits<br> 📚 Exploring Flutter and Ui UX<br> ⚡ Interested in mobile app development </p>
+<p align="left">I'm Tarun, I design & build captivating products.<br><br> 🔭 Software Engineer @Misfits<br> 📚 Exploring Flutter and Ui UX<br> ⚡ Interested in mobile app development </p>
 
 ###
 <h3 align="left">Connect with me:</h3>
